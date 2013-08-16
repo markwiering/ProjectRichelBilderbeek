@@ -22,7 +22,7 @@ const About K3OpEenRijMenuDialog::GetAbout()
     "Richel Bilderbeek",
     "K3OpEenRij",
     "connect-three game",
-    "the 6th of August 2013",
+    "the 9th of August 2013",
     "2007-2013",
     "http://www.richelbilderbeek.nl/GameK3OpEenRij.htm",
     GetVersion(),
